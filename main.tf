@@ -1,7 +1,7 @@
 provider "aws" {
   version = "2.33.0"
-  access_key = "AKIAIHK5CBPXPAB5X5ZQ"
-  secret_key = "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"
+  access_key = #
+  secret_key = #
   region = var.aws_region
 }
 
