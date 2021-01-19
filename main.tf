@@ -1,7 +1,7 @@
 provider "aws" {
   version = "2.33.0"
-  AWS_ACCESS_KEY_ID = AKIAIA2USRMDYH6POB2A
-  AWS_SECRET_ACCESS_KEY = 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
+  ACCESS_KEY = "AKIAIA2USRMDYH6POB2A"
+  SECRET_KEY = "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"
   region = var.aws_region
 }
 
